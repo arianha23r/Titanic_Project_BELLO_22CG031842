@@ -1,0 +1,6 @@
+Oshiolema Omokhapue
+22CG031931
+Random Forest Classifier
+Joblib
+https://github.com/Oshiolema/titanic-survival-prediction-22cg031931.git
+https://titanic-survival-prediction-22cg031931.onrender.com
