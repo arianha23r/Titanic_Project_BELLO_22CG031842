@@ -1,6 +1,7 @@
-Oshiolema Omokhapue
-22CG031931
+BELLO RERELOLUWA
+22CG031842
 Random Forest Classifier
 Joblib
-https://github.com/Oshiolema/titanic-survival-prediction-22cg031931.git
-https://titanic-survival-prediction-22cg031931.onrender.com
+https://github.com/arianha23r/Titanic_Project_BELLO_22CG031842
+
+https://titanic-project-bello-22cg031842.onrender.com/
